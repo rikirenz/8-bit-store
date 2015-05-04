@@ -1,0 +1,33 @@
+.carousel-inner > .item > img {
+    margin: 0 auto;
+}
+.carousel-inner{
+    background: #ED5565;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: #da4453;
+    }
+
+.navbar #nav > .active > a {
+    border-bottom: red;
+}
+.badge, .label {
+  background-color: #da4453;
+}
+.carousel-indicators li {
+  background-color: #da4453;
+}
+.carousel-indicators .active {
+  background-color: #f0ad4e;
+}
+.item h4{
+  color: #434a54;
+}
+.item p{
+  color: #434a54;
+}
+
+#errorList li{
+  color:red;
+}
